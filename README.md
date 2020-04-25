@@ -9,4 +9,4 @@
 * The images are collected from COVID19-related papers from medRxiv, bioRxiv, NEJM, JAMA, Lancet, etc. CTs containing COVID-19 abnormalities are selected by reading the figure captions in the papers. All copyrights of the data belong to the authors and publishers of these papers.
 
 ### Unpublished scientific reports (today: 25/04/2020)
-## [Paper] https://arxiv.org/pdf/2003.13865.pdf
+## [Paper](https://arxiv.org/pdf/2003.13865.pdf)
